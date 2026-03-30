@@ -52,8 +52,8 @@ Approximately **26.5% of customers have churned**, indicating a significant cust
 
 ### 4. Monthly Charges and Churn
 
-* Churned customers: **74.44 average monthly charges**
-* Retained customers: **61.27 average monthly charges**
+* Churned customers: **$74.44 average monthly charges**
+* Retained customers: **$61.27 average monthly charges**
 
 **Insight:** Higher monthly charges are associated with increased likelihood of churn, suggesting price sensitivity.
 
