@@ -10,7 +10,7 @@ This project analyses customer churn in a telecommunications dataset to identify
 - Derived insights and translated them into business recommendations  
 
 ## Dashboard
-View the interactive Tableau dashboard:[View Interactive Tableau Dashboard](https://public.tableau.com/views/Book1_17749440302530/TelcoChurnDashboard?:language=en-US&publish=yes&sid=&redirect=auth&display_count=n&origin=viz_share_link)
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/Book1_17749440302530/TelcoChurnDashboard?:language=en-US&publish=yes&sid=&redirect=auth&display_count=n&origin=viz_share_link)
 
 ## Key Insights
 - Churn is highest among month-to-month customers (~43%)
