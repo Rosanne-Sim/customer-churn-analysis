@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Customer Churn Analysis: Key Drivers and Retention Insights
 
 ## Objective
 This project analyses customer churn in a telecommunications dataset to identify key drivers of churn and recommend targeted retention strategies.
