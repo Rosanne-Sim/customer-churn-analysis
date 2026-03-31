@@ -1,12 +1,12 @@
 # Customer Churn Analysis: Key Drivers and Retention Insights
 
 ## Objective
-This project analyses customer churn in a telecommunications dataset to identify key drivers of churn and recommend targeted retention strategies.
+Analyses customer churn in a telecommunications dataset to identify key drivers and recommend targeted retention strategies.
 
 ## Approach
 - Performed exploratory analysis using SQL to examine churn patterns  
 - Built calculated metrics (churn rate, tenure groups)  
-- Developed an interactive Tableau dashboard to visualise key drivers  
+- Developed an interactive Tableau dashboard to visualise key churn drivers
 - Derived insights and translated them into business recommendations  
 
 ## Dashboard
@@ -22,7 +22,7 @@ This project analyses customer churn in a telecommunications dataset to identify
 - Strengthen onboarding and engagement during the first 12 months
 - Target high-risk early-stage customers with retention interventions
 
-## Tools Used
+## Tools
 - SQL
 - Tableau
 
