@@ -1,11 +1,17 @@
 # Customer Churn Analysis
 
 ## Objective
-This project analyses customer churn behaviour in a telecommunications dataset to identify key drivers of churn and provide actionable retention strategies.
+This project analyses customer churn in a telecommunications dataset to identify key drivers of churn and recommend targeted retention strategies.
+
+## Approach
+- Performed exploratory analysis using SQL to examine churn patterns  
+- Built calculated metrics (churn rate, tenure groups)  
+- Developed an interactive Tableau dashboard to visualise key drivers  
+- Derived insights and translated them into business recommendations  
 
 ## Dashboard
 View the interactive Tableau dashboard:  
-[Interactive Tableau Dashboard]([INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/Book1_17749440302530/TelcoChurnDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[Interactive Tableau Dashboard](https://public.tableau.com/views/Book1_17749440302530/TelcoChurnDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ## Key Insights
 - Churn is highest among month-to-month customers (~43%)
