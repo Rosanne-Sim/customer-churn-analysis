@@ -1,83 +1,29 @@
 # Customer Churn Analysis
 
 ## Objective
+This project analyses customer churn behaviour in a telecommunications dataset to identify key drivers of churn and provide actionable retention strategies.
 
-This project analyses customer churn behaviour in a telecom company to identify key factors driving customer attrition and provide actionable business recommendations.
+## Dashboard
+View the interactive Tableau dashboard:  
+[Interactive Tableau Dashboard]([INSERT_YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/Book1_17749440302530/TelcoChurnDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
----
+## Key Insights
+- Churn is highest among month-to-month customers (~43%)
+- Customers within the first 12 months exhibit the highest churn (~47%)
+- Contract type and early-stage tenure are the primary drivers of churn
+
+## Recommendations
+- Incentivise transition from month-to-month to longer-term contracts
+- Strengthen onboarding and engagement during the first 12 months
+- Target high-risk early-stage customers with retention interventions
 
 ## Tools Used
-
-* SQL (SQLite via Jupyter Notebook)
-* Python (Pandas)
-* Jupyter Notebook
-
----
+- SQL
+- Tableau
 
 ## Dataset
+- Telco Customer Churn dataset (public dataset)
 
-The dataset contains customer-level information including demographics, service usage, contract type, tenure, and billing details.
-
-* **Churn** indicates whether a customer has discontinued their service (Yes/No).
-
----
-
-## Key Analyses
-
-### 1. Overall Churn Rate
-
-Approximately **26.5% of customers have churned**, indicating a significant customer retention issue.
-
----
-
-### 2. Churn by Contract Type
-
-* Month-to-month contracts: **42.7% churn rate**
-* One-year contracts: **11.3% churn rate**
-* Two-year contracts: **2.8% churn rate**
-
-**Insight:** Customers on shorter-term contracts are significantly more likely to churn.
-
----
-
-### 3. Churn by Tenure
-
-* New customers (≤12 months): **47.4% churn rate**
-* Mid-term customers (13–36 months): **25.5% churn rate**
-* Long-term customers (37+ months): **11.9% churn rate**
-
-**Insight:** Churn is highest in the early stages of the customer lifecycle.
-
----
-
-### 4. Monthly Charges and Churn
-
-* Churned customers: **$74.44 average monthly charges**
-* Retained customers: **$61.27 average monthly charges**
-
-**Insight:** Higher monthly charges are associated with increased likelihood of churn, suggesting price sensitivity.
-
----
-
-## Key Findings
-
-Customer churn is primarily driven by three factors:
-
-* **Contract Structure** → Short-term contracts increase churn risk
-* **Customer Tenure** → New customers are the most vulnerable
-* **Pricing Levels** → Higher charges correlate with higher churn
-
----
-
-## Business Recommendations
-
-* Encourage customers to switch to **long-term contracts** through incentives
-* Strengthen **onboarding and early engagement** for new customers
-* Review **pricing strategies** and provide value-added services for high-paying customers
-
----
-
-## Project Files
-
-* `customer_churn_analysis_sql.ipynb` → Full analysis and SQL queries
-* `Telco-Customer-Churn.csv` → Dataset
+## Dashboard Preview
+![Customer Churn Dashboard](dashboard.png<img width="1316" height="882" alt="Dashboard" src="https://github.com/user-attachments/assets/c8bb141d-6f38-4829-b21c-4b7afb4ce366" />
+)
