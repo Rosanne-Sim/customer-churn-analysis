@@ -25,4 +25,4 @@ View the interactive Tableau dashboard:
 - Telco Customer Churn dataset (public dataset)
 
 ## Dashboard Preview
-dashboard.png<img width="1316" height="882" alt="Dashboard" src="https://github.com/user-attachments/assets/c8bb141d-6f38-4829-b21c-4b7afb4ce366" />
+<img width="1316" height="882" alt="Dashboard" src="https://github.com/user-attachments/assets/c8bb141d-6f38-4829-b21c-4b7afb4ce366" />
